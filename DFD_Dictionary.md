@@ -22,7 +22,7 @@ Processes
   
 Data Flows
 
-  1) Software Package- Name of the Software Package.
+  1) Software Package- Software files.
   
   2) License Results- List of Licenses within a specific Software Package.
   
