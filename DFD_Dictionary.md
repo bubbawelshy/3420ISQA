@@ -9,18 +9,26 @@ Entities
  
 Processes
 
-  1) Management
+  1) Management- Directs software packages to have licenses and vulnerabilities checked by scanner and NIST Database and then stored in the License and Vulnerabilities database.
   
-  2) Scanner
+  2) Scanner- Looks through a software package and extracts all the licenses within the package. 
   
-  3) Licenses and Vulnerabilities Request
+  3) Licenses and Vulnerabilities Request- checks the License and Vulnerabilities database for the requested Software package and returns the results to whomever requested it.
   
-  4) Policy Request
+  4) Policy Request- Checks for the requested software package policy documents and returns them if there is any.
   
-  5) New / Update Policy Request
+  5) New / Update Policy Request- Allows a manager to update or add a policy document for specific software packages.
   
   
 Data Flows
+
+  1) Software Package
+  
+  2) License Results
+  
+  3) Vulnerability Results
+  
+  4) 
   
 Databases
 
