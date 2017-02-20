@@ -22,13 +22,23 @@ Processes
   
 Data Flows
 
-  1) Software Package
+  1) Software Package- Name of the Software Package.
   
-  2) License Results
+  2) License Results- List of Licenses within a specific Software Package.
   
-  3) Vulnerability Results
+  3) Vulnerability Results- List of Vulnerabilities within a specific Software Package.
   
-  4) 
+  4) L&V Results- List of all Licenses and vulnerabilities for a specific Software Package.
+  
+  5) L&V Request- The demand for all the Licenses and Vulnerabilities for a specific Software Package.
+  
+  6) Policy Request- The demand to see the policy documents the pertain to a specific Software Package.
+  
+  7) Policy Response- The policy documents that pertain to a specific Software Package.
+  
+  8) New / Update Request- The demand to either add or update a policy in regards to a specific Software Package.
+  
+  9) New / Update Response- The confirmation of a request to update or add a policy in regards to a specific Software Package.
   
 Databases
 
